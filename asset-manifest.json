@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apponixtest/static/css/main.073c9b0a.css",
+    "main.js": "/apponixtest/static/js/main.c59e1c1d.js",
+    "static/js/787.8710021f.chunk.js": "/apponixtest/static/js/787.8710021f.chunk.js",
+    "index.html": "/apponixtest/index.html",
+    "main.073c9b0a.css.map": "/apponixtest/static/css/main.073c9b0a.css.map",
+    "main.c59e1c1d.js.map": "/apponixtest/static/js/main.c59e1c1d.js.map",
+    "787.8710021f.chunk.js.map": "/apponixtest/static/js/787.8710021f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c59e1c1d.js"
+  ]
+}
